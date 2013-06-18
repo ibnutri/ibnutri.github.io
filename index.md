@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: Because I don't have idea for better title
+tagline: Because I don't have idea for a better title
 ---
 {% include JB/setup %}
 
