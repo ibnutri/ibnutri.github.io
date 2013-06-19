@@ -17,3 +17,7 @@ Web developer, Game developer, sometime i talk [rubbish](https://twitter.com/ibn
  
 ### Contributions
  - [habitRPG](https://habitrpg.com/) one way to change habit with RPG feel (still figuring out how could i contribute)
+
+### Internet Existence
+ - [@ibnutri](http://twitter.com/ibnutri) on twitter
+ - Blog to let off some steam on [tumblr](http://ibnutri.tumblr.com) (Rarely post in english though)
