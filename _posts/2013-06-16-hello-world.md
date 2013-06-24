@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Hello World!
-tagline: Because I don't have idea for a better title
+layout: post
+title: "Hello World!"
+description: ""
+category: 
+tags: [stuff]
 ---
 {% include JB/setup %}
 
