@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Hello World!
 tagline: Because I don't have idea for a better title
 ---
