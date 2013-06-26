@@ -13,7 +13,7 @@ At some point in my [twitter timeline](http://twitter.com/ibnutri) i found someo
 
 I like coding, i work as a programmer, do i deserve the "geek" title? i don't know, i just like to code. Resolving problem, completing tasks, fixing bugs, things like that? exciting! (i know fixing others bugs are pain in the ass, but you know the excitement when you fixed it).
 
-So guys, why stop at earning the titles? why don't you focused at something more fun than titles? something that would earn you better things than just titles? if you're a coder you could contribute to interesting project on [github](http://github.com). if you're an artist make anything artisty (someone correct me here please). If you're a gamer, play well, perhaps somebody's watching you're performance. 
+So guys, why stop at earning the titles? why don't you focused at something more fun than titles? something that would earn you better things than just titles? if you're a coder you could contribute to interesting project on [github](http://github.com). if you're an artist make anything artisty (someone correct me here please). If you're a gamer, play well, perhaps somebody's watching your performance. 
 
 Or perhaps getting the title is the most important to you, just get it then.
 
