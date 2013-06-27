@@ -3,7 +3,6 @@
 	{% for post in site.posts limit:10 %}
 	<li class="article-link">
 	<a href="{{ post.url }}" class="h3">{{ post.title }}</a>
-	<p>{{ post.content }}</p>
 	<small>
 		<date>{{ post.date | date_to_string }}</date>
 	</small>
