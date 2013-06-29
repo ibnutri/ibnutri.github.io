@@ -9,6 +9,8 @@ tags: [stuff, opinion]
 
 Lately I've been watching past google IO's (or googletalk) video on youtube. Mostly I just want to see how engineer presenting their product or service on a convention. One of the first googletalk I watched is Linus' talk about git, about why He doesn't use the other version control (SVN). It is a very opinionated talk, but still very interesting though. 
 
+<!--moar-->
+
 Few days ago I'm watching [myth about genius programmer](http://www.youtube.com/watch?v=0SARbwvhupQ), brought by Brian Fitzpatrick and Ben Collins-Sussman, (both of them are Google Code programmer) they talk about programmer, psychologically. I encourage you to watch it yourself, but for some preview this is what i get from watching talk. 
 
 Programmers are insecure, I feel it too (and I think other programmer had it too) . Sometimes I feel like I want to say "don't touch my code", or "How dare you criticize the way I code". Maybe because I'm the only programmer for the last few month on this project. Maybe I haven't really trust my partner. Or perhaps its my ego. And that situation could lead to problems, one of them is lowered "bus factor".
