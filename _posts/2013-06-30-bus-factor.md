@@ -21,3 +21,6 @@ There are things to raise bus factor. The first is to drop your ego, don't be to
 
 I've been trying to apply those solution to my team. It is easier said than done. But like most cultural problems, it need change of behaviour. It is not easy, but I think we could make it :)
 
+Disclaimer: everything i write here is my personal opinion, nothing whatsoever reflecting google's opinion
+
+Moral of the story : Managers, keep your developers out of bus lane please.
