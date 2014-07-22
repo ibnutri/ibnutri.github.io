@@ -23,4 +23,4 @@ I've been trying to apply those solution to my team. It is easier said than done
 
 Disclaimer: everything I write here is my personal opinion, nothing whatsoever reflecting google's opinion
 
-Moral of the story : Managers, keep your developers out of bus lane please.
+Moral of the story : Managers, please keep your developers out of bus lane.
