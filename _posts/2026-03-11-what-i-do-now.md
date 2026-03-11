@@ -37,10 +37,10 @@ Some things from the last couple of years that I'm working on:
 - **Query optimization:** — fixed a slow dashboard on a MongoDB system. Found the bottleneck, fixed it, and documented everything so the client understood what changed.
 
 ## What I'm experimenting with lately
-(list of projects)
 
 - [Textract OCR on AWS S3](https://textract-frontend.onrender.com/) it's a proof of concept that I made
 - [Upwork Cover Letter Generator](https://upwork-cl-frontend.onrender.com/) it's a Gen AI sample to help me create New Cover letter based on previous performance. I'm still developing the Chrome extension to make it easier to use.
+- An Indoor Robot, I "accidentally" bought an omniwheel platform so I feel obliged to turn it into some kind of robot.
 
 ## Going forward
 
